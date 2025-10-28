@@ -7,4 +7,3 @@ Concise study of convolutional architectures and training setups. We compare **L
 - **Comparisons:** training vs validation accuracy curves; best config per model
 - **Regularization:** dropout + data augmentation on the best **MyCNN**
 - **Transfer learning:** frozen head + partial fine-tuning (VGG19, EfficientNetB0)
-- **Pipelines:** notes on TFRecord + `tf.data` for scalable input
